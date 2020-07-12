@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bilder</folder>
+	<filename>1540896480285_astrargb.png</filename>
+	<path>C:\Bilder\1540896480285_astrargb.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellowcone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>208</ymin>
+			<xmax>155</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>
